@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <GitHubUpdateManifest>
   <Application Name="GitHubdater Sample App">
-    <Version Tag="v0.1.0" IsPreRelease="False" />
+    <Version Tag="v0.2.0" IsPreRelease="False" />
   </Application>
   <GitHubRepository>
     <Owner>githubdater</Owner>

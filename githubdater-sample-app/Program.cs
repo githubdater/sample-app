@@ -11,7 +11,7 @@ namespace GitHubdater.SampleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GitHubdater Sample App - v0.1 (remember this version *wink*)");
+            Console.WriteLine("GitHubdater Sample App - v0.2 (remember this version *wink*)");
             Console.WriteLine("Press any key to update...");
 
             Console.ReadLine();
